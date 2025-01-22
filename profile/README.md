@@ -17,34 +17,26 @@ Hightorque is committed to the research and development, manufacturing, and comm
     <span style="display:inline-block; vertical-align:top;">Open source projects</span> 
 </div>
 
-<!-- <tr><td colspan="1" rowspan="4"> -->
-
 <table class="table table-striped table-bordered table-vcenter"/>
     <tbody>
     <tr><th> Title </th> <th>Description</th> <th>Stars</th> <th>Forks</th></tr>
     <tr>
-        <td align="center"><a href="https://github.com/HighTorque-Opensource/Robot-models">Robot-models</a></td>
+        <td align="center"><a href="https://github.com/HighTorque-Robotics/robot_urdf">Robot-models</a></td>
         <td>机器人模型库，主要包含 URDF 文件，可用于仿真和开发。</td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/HighTorque-Opensource/Robot-models?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/HighTorque-Opensource/Robot-models?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/HighTorque-Robotics/robot_urdf?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/HighTorque-Robotics/robot_urdf?style=flat-square"/></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/HighTorque-Opensource/Hardware-SDK">Hardware-SDK</a></td>
+        <td align="center"><a href="https://github.com/HighTorque-Locomotion/livelybot_hardware_sdk">Hardware-SDK</a></td>
         <td>硬件开发套件，提供电机 SDK。</td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/HighTorque-Opensource/Hardware-SDK?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/HighTorque-Opensource/Hardware-SDK?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/HighTorque-Locomotion/livelybot_hardware_sdk?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/HighTorque-Locomotion/livelybot_hardware_sdk?style=flat-square"/></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/HighTorque-Opensource/Locomotion-SDK">Locomotion-SDK</a></td>
-        <td>机器人运动控制 SDK。</td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/HighTorque-Opensource/Locomotion-SDK?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/HighTorque-Opensource/Locomotion-SDK?style=flat-square"/></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/HighTorque-Opensource/Pi-RL">Pi-RL</a></td>
+        <td align="center"><a href="https://github.com/HighTorque-Robotics/livelybot_pi_rl_baseline">Pi-RL</a></td>
         <td>用于机器人强化学习的开源项目，提供训练环境和算法实现。</td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/HighTorque-Opensource/Pi-RL?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/HighTorque-Opensource/Pi-RL?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/HighTorque-Robotics/livelybot_pi_rl_baseline?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/HighTorque-Robotics/livelybot_pi_rl_baseline?style=flat-square"/></td>
     </tr>
     </tbody>
 </table>
