@@ -2,11 +2,11 @@
 
 Hightorque is committed to the research and development, manufacturing, and commercialization of bipedal robots and embedded intelligent solutions, suitable for both consumer and industrial applications. We prioritize independent innovation and technological progress, focusing on the internal development of key robot components such as high-performance motors, advanced control systems, and state-of-the-art perception and motion control algorithms. By deeply integrating cutting-edge technologies from the entire robot ecosystem, Hightorque aims to provide intelligent, multifunctional, and reliable robot systems, fundamentally changing the future of automation and human-machine collaboration.
 
-<a href="https://github.com/HighTorque-Opensource">
-<img src="https://badges.strrl.dev/years/HighTorque-Opensource?style=flat-square&logo=github">
+<a href="https://github.com/HighTorque-Robotics">
+<img src="https://badges.strrl.dev/years/HighTorque-Robotics?style=flat-square&logo=github">
 </a>
-<a href="https://github.com/HighTorque-Opensource?tab=repositories">
-<img src="https://badges.strrl.dev/repos/HighTorque-Opensource?style=flat-square&logo=github">
+<a href="https://github.com/HighTorque-Robotics?tab=repositories">
+<img src="https://badges.strrl.dev/repos/HighTorque-Robotics?style=flat-square&logo=github">
 </a>
 
 
