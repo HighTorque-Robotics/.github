@@ -23,7 +23,7 @@ Hightorque致力于双足机器人和嵌入式智能解决方案的研发和制�
 </a>
 
 <div>
-    <img src="https://149753425.v2.pressablecdn.com/wp-content/uploads/2009/06/osi_symbol_100X100_0.png" width="40" height="40" style="display:inline-block; vertical-align:top;">
+    <img src="https://149753425.v2.pressablecdn.com/wp-content/uploads/2009/06/osi_symbol_100X100_0.png" width="20" height="20" style="display:inline-block; vertical-align:top;">
     <span style="display:inline-block; vertical-align:top;">Open source projects</span> 
 </div>
 
