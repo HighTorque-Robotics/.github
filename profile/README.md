@@ -1,11 +1,19 @@
 # HighTorque Robotics
 
-Hightorque致力于双足机器人和嵌入式智能解决方案的研发和制造，适用于消费者和工业应用。我们优先考虑自主创新和技术进步，专注于关键机器人部件的内部开发，如高性能电机、先进控制系统以及最先进的感知和运动控制算法。通过深度整合整个机器人生态系统的尖端技术，Hightorque旨在提供智能、多功能和可靠的机器人系统，从根本上改变自动化和人机协作的未来。
+Hightorque致力于双足机器人和嵌入式智能解决方案的研发和制造，适用于消费者和科研场所。我们优先考虑自主创新和技术进步，专注于关键机器人部件的内部开发，如高性能电机、先进控制系统以及最先进的感知和运动控制算法。通过深度整合整个机器人生态系统的尖端技术，Hightorque旨在提供智能、多功能和可靠的机器人系统，从根本上改变自动化和人机协作的未来。
 
-[![Wechat](https://www.hightorque.cn/wp-content/uploads/2024/07/%E5%BE%AE%E4%BF%A1-1.png?orientation=landscape&width=200&height=200)](https://www.hightorque.cn/)
-[![Twitter](https://www.hightorque.cn/wp-content/uploads/2024/07/%E6%8E%A8%E7%89%B9-1.png?orientation=landscape&width=200&height=200)](https://x.com/HTrobotics)
-[![YouTube](https://www.hightorque.cn/wp-content/uploads/2024/07/YouTube_youtube7.png?orientation=landscape&width=200&height=200)](https://www.youtube.com/channel/UC5i7Nbk-I-AM2u2LRb-IIfQ)
-[![Bilibili](https://www.hightorque.cn/wp-content/uploads/2024/07/B%E7%AB%99.png?orientation=landscape&width=200&height=200)](https://space.bilibili.com/3461572806576289?%20spm_id_from=333.337.0.0)
+<a href="https://www.hightorque.cn/">
+  <img src="https://www.hightorque.cn/wp-content/uploads/2024/07/微信-1.png?orientation=landscape&width=200&height=200" alt="Wechat" width="40" height="40" style="vertical-align: middle;">
+</a>
+<a href="https://x.com/HTrobotics">
+  <img src="https://www.hightorque.cn/wp-content/uploads/2024/07/推特-1.png?orientation=landscape&width=200&height=200" alt="Twitter" width="40" height="40" style="vertical-align: middle;">
+</a>
+<a href="https://www.youtube.com/channel/UC5i7Nbk-I-AM2u2LRb-IIfQ">
+  <img src="https://www.hightorque.cn/wp-content/uploads/2024/07/YouTube_youtube7.png?orientation=landscape&width=200&height=200" alt="YouTube" width="40" height="40" style="vertical-align: middle;">
+</a>
+<a href="https://space.bilibili.com/3461572806576289?%20spm_id_from=333.337.0.0">
+  <img src="https://www.hightorque.cn/wp-content/uploads/2024/07/B站.png?orientation=landscape&width=200&height=200" alt="Bilibili" width="40" height="40" style="vertical-align: middle;">
+</a>
 
 <a href="https://github.com/HighTorque-Robotics">
 <img src="https://badges.strrl.dev/years/HighTorque-Robotics?style=flat-square&logo=github">
@@ -15,7 +23,7 @@ Hightorque致力于双足机器人和嵌入式智能解决方案的研发和制�
 </a>
 
 <div>
-    <img src="https://149753425.v2.pressablecdn.com/wp-content/uploads/2009/06/osi_symbol_100X100_0.png" width="20" height="20" style="display:inline-block; vertical-align:top;">
+    <img src="https://149753425.v2.pressablecdn.com/wp-content/uploads/2009/06/osi_symbol_100X100_0.png" width="40" height="40" style="display:inline-block; vertical-align:top;">
     <span style="display:inline-block; vertical-align:top;">Open source projects</span> 
 </div>
 
