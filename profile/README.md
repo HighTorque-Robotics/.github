@@ -1,6 +1,6 @@
 # HighTorque Robotics
 
-Hightorque致力于双足机器人和嵌入式智能解决方案的研发和制造，适用于消费者和科研场所。我们优先考虑自主创新和技术进步，专注于关键机器人部件的内部开发，如高性能电机、先进控制系统以及最先进的感知和运动控制算法。通过深度整合整个机器人生态系统的尖端技术，Hightorque旨在提供智能、多功能和可靠的机器人系统，从根本上改变自动化和人机协作的未来。
+Hightorque is committed to the research and manufacturing of bipedal robots and embedded intelligent solutions, suitable for consumers and research institutions. We prioritize independent innovation and technological progress, focusing on the internal development of key robot components such as high-performance motors, advanced control systems, and state-of-the-art perception and motion control algorithms. By deeply integrating cutting-edge technologies from the entire robot ecosystem, Hightorque aims to provide intelligent, multifunctional, and reliable robot systems that fundamentally change the future of automation and human-machine collaboration.
 
 <a href="https://www.hightorque.cn/">
   <img src="https://www.hightorque.cn/wp-content/uploads/2024/07/微信-1.png?orientation=landscape&width=200&height=200" alt="Wechat" width="40" height="40" style="vertical-align: middle;">
@@ -37,19 +37,19 @@ Hightorque致力于双足机器人和嵌入式智能解决方案的研发和制�
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/HighTorque-Robotics/robot_urdf">Robot-models</a></td>
-        <td>机器人模型库，主要包含 URDF 文件，可用于仿真和开发。</td>
+        <td>The robot model library mainly includes URDF files, which can be used for simulation and development.</td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/HighTorque-Robotics/robot_urdf?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/HighTorque-Robotics/robot_urdf?style=flat-square"/></td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/HighTorque-Robotics/livelybot_hardware_sdk">Hardware-SDK</a></td>
-        <td>硬件开发套件，提供电机 SDK。</td>
+        <td>Hardware development kit, providing motor SDK.</td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/HighTorque-Robotics/livelybot_hardware_sdk?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/HighTorque-Robotics/livelybot_hardware_sdk?style=flat-square"/></td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/HighTorque-Robotics/livelybot_pi_rl_baseline">Pi-RL</a></td>
-        <td>用于机器人强化学习的开源项目，提供训练环境和算法实现。</td>
+        <td>An open-source project for robot reinforcement learning, providing a training environment and algorithm implementation.</td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/HighTorque-Robotics/livelybot_pi_rl_baseline?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/HighTorque-Robotics/livelybot_pi_rl_baseline?style=flat-square"/></td>
     </tr>
