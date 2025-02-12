@@ -53,6 +53,12 @@ Hightorque is committed to the research and manufacturing of bipedal robots and 
         <td><img alt="Stars" src="https://img.shields.io/github/stars/HighTorque-Robotics/livelybot_pi_rl_baseline?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/HighTorque-Robotics/livelybot_pi_rl_baseline?style=flat-square"/></td>
     </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/HighTorque-Robotics/hi_dynamic_control">HI_Control</a></td>
+      <td>A motion control scheme for  HI.</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/HighTorque-Robotics/hi_dynamic_control?style=flat-square"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/HighTorque-Robotics/hi_dynamic_control?style=flat-square"/></td>
+    </tr>
     </tbody>
 </table>
 
